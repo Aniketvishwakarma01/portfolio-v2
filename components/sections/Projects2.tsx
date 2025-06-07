@@ -111,7 +111,7 @@ export default function Projects2() {
 																<li className="text-dark mb-3 border-bottom pb-3">
 																	<div className="d-flex justify-content-between">
 																		<p className="text-dark mb-0 text-end">Client</p>
-																		<p className="text-300 mb-0 text-end">Self-Initiated</p>
+																		<p className="text-300 mb-0 text-end">Self-initiated</p>
 																	</div>
 																</li>
 																<li className="text-dark mb-3 border-bottom pb-3">
