@@ -54,7 +54,8 @@ export default function Projects2() {
 																Developed the frontend for<br />
 																Sigal Distribution ecommerce system
 															</h4>
-  Built a responsive and user-friendly frontend using Next.js, focusing on seamless navigation, fast loading times, and an engaging shopping experience for Sigal Distribution’s customers.
+ <p> Built a responsive and user-friendly frontend using Next.js, focusing on seamless navigation, fast loading times, and an engaging shopping experience for Sigal Distribution’s customers.
+	</p>
 															<ul className="mt-4 list-unstyled">
 																<li className="text-secondary-2 mb-3 border-bottom pb-3">Project Info</li>
 																<li className="text-dark mb-3 border-bottom pb-3">
