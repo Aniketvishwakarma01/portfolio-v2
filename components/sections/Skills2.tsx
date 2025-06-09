@@ -60,7 +60,7 @@ export default function Skills2() {
 															</li>
 															<li className="carouselTicker__item mt-6">
 																<Link href="#" className="brand-logo icon_80 icon-shape rounded-3">
-																	<img src="assets/imgs/home-page-2/hero-1/Springboot.png" alt="brand" />
+																	<img src="assets/imgs/home-page-2/hero-1/springboot.png" alt="brand" />
 																</Link>
 																<span className="tool-tip">Spring Boot</span>
 															</li>

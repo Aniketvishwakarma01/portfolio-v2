@@ -30,7 +30,7 @@ export default function Home2() {
 											&lt;/span&gt;
 										</div>
 										<h1 className="fs-50 my-3"><span className="text-linear-4">{'{'}Full Stack{'}'}</span>Java developer<span className="flicker">_</span></h1>
-										<p className="mb-6 text-secondary-2">&lt;p&gt;<span className="text-dark">With expertise in cutting-edge technologies like</span> 
+										<p className="mb-6 text-secondary-2">&lt;p&gt;<span className="text-dark">With expertise in cutting-edge technologies like </span> 
 										<span className="text-secondary-2">Spring Boot </span>, 
 										<span className="text-secondary-2">React </span>,
 										<span className="text-secondary-2">Next.js </span>,
